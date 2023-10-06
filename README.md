@@ -17,8 +17,8 @@ The `CMakeLists.txt` file is setup to create two binary files: an executable and
 ```
 mkdir <project_directory>
 cd <project_directory>
-git clone <PROJECT>
-cd <PROJECT>
+git clone https://github.com/aftenbusch/cpp_std_module_test.git
+cd cpp_std_module_test
 ```
 Although CMake provides an essentially system-independent build process, the procedures for compiling, building, and installing code using the C++ standard module may vary depending upon the system and compilier used.
 
